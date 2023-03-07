@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+    - name: engagement_model
+      description: "neo bank dbt model"
+    - name: active_user_model
+      description: "active users"
+    - name: retention_model
+      description: "new customers"
